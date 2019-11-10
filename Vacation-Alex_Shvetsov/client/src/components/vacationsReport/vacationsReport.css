@@ -1,0 +1,26 @@
+.vacation-reports .container{
+    padding-right: 2.5rem;
+    padding-left: 1rem;
+    padding-top: -30px;
+    width: 100%;
+}
+
+.vacation-reports {
+    box-sizing: border-box;
+    width: 80% !important;
+    margin:30px 10% 0 10%;
+    background-color: rgb(223, 223, 223);
+    box-shadow: 0 0 15px 0px black;
+    border-radius: 15px;
+    opacity: .9;
+    height: 550px !important;
+    padding-top: 20px;
+    position: fixed;
+}
+
+.vacation-reports .go-back {
+    position: absolute;
+    right: -15%;
+    top: 0;
+    margin:auto;
+}

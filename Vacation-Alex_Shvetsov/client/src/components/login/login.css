@@ -1,0 +1,37 @@
+.login{
+    height: 200px;
+    width:380px;
+    margin: auto;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color: white;
+    border-radius: 25px;
+    text-align:center;
+}
+
+.login .tooltip {
+    position: relative;
+    display: inline-block;
+  }
+  
+
+.login .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;  
+    position: absolute;
+    z-index: 1;
+  }
+   
+ .login .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+.error{
+    background-color: rgb(250, 151, 151);
+}

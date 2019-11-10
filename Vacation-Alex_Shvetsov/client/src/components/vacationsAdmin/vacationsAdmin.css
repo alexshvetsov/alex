@@ -1,0 +1,21 @@
+.vacationsAdmin{
+    text-align: center;
+}
+
+.vacationsAdmin a{
+    font-size: x-large;
+    font-family: 'Livvic', sans-serif;
+    background-color: dodgerblue;
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    display: inline-block;
+}
+
+
+.vacationsAdmin .newVacation{
+    font-family: 'Livvic', sans-serif;
+    text-align: center;
+    float: left;
+    margin: 6px 10px;
+}

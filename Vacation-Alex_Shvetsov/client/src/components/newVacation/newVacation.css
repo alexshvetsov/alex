@@ -1,0 +1,14 @@
+.newVacation{
+ width: 300px;
+text-align: center;
+background-color: white;
+margin:0 auto;
+}
+
+.newVacation .add-button{
+    background-color: rgb(66, 250, 66);
+}
+
+.newVacation .delete-button{
+    background-color: rgb(255, 44, 44);
+}
